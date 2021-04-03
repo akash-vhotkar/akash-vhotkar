@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 
 
-<img src= "https://github-readme-stats.vercel.app/api?username=akash-vhotkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="250">
+<img src= "https://github-readme-stats.vercel.app/api?username=akash-vhotkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="250"/>
 
-<img src= "https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="250">
+<img src= "https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="250"/>
 
 
 
