@@ -27,7 +27,12 @@ Here are some ideas to get you started:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akash-vhotkar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akash-vhotkar-b16b62195//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akash_vhotkar/)  
 
-
+<p align="center">
+<a href="https://github.com/akash-vhotkar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akash-vhotkar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akash-vhotkar&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
