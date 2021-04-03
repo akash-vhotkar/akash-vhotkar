@@ -11,9 +11,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img width="460" height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 </p>
 
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning react js ,java
 - 💬 Ask me about  anything, I am happy to help;
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akash-vhotkar-b16b62195)
