@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Akash Vhotkar
 
 
-**akash-vhotkar/akash-vhotkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-(https://cdn.pixabay.com/photo/2016/08/29/08/55/work-1627703_1280.jpg)
-
+Hi, I'm Abhishek Naidu, a passionate self-taught Full Stack web developer  from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 Here are some ideas to get you started:
 
