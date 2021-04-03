@@ -3,6 +3,10 @@
 
 Hi, I'm Akash Vhotlar, a passionate self-taught Full Stack web developer  from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+
 <p align="center">
   <img width="460" height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 </p>
@@ -17,10 +21,10 @@ Here are some ideas to get you started:
 - 📝 [Resume](https://drive.google.com/file/d/1qlaCgsDL_noat67-u90MZl9dZhpioxky/view?usp=sharing)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akash-vhotkar&theme=dark)](https://git.io/streak-stats)
 
 <img src= "https://github-readme-stats.vercel.app/api?username=akash-vhotkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akash-vhotkar&theme=dark)](https://git.io/streak-stats)
 
 
 
