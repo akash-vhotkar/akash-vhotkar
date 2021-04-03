@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning react js ,java
 - 💬 Ask me about  anything, I am happy to help;
-- 📫 How to reach me: [linkin](https://www.linkedin.com/in/akash-vhotkar-b16b62195)
+- 📫 How to reach me: [Akash Vhotkar](https://www.linkedin.com/in/akash-vhotkar-b16b62195)
 - 😄 Pronouns: He/His
+- 📝 [Resume](https://drive.google.com/file/d/1qlaCgsDL_noat67-u90MZl9dZhpioxky/view?usp=sharing)
+
 
 
 <img src= "https://github-readme-stats.vercel.app/api?username=akash-vhotkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
