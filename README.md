@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning react js ,java
 - 💬 Ask me about  anything, I am happy to help;
-- 📫 How to reach me: [Akash Vhotkar](https://www.linkedin.com/in/akash-vhotkar-b16b62195)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akash-vhotkar-b16b62195)
 - 😄 Pronouns: He/His
 - 📝 [Resume](https://drive.google.com/file/d/1qlaCgsDL_noat67-u90MZl9dZhpioxky/view?usp=sharing)
 
