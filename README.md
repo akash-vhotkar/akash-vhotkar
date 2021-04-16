@@ -32,8 +32,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 
-
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
